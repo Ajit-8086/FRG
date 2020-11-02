@@ -79,7 +79,7 @@ class AppUseState extends State<AppUse> {
                             ),
                             getSizedBox20(),
                             getTextWidget(
-                                '2.Define lat long for and radius for geofencing',
+                                '2.Define lat long and radius for geofencing',
                                 16,
                                 false),
                             getSizedBox20(),
