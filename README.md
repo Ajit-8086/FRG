@@ -9,7 +9,9 @@
 Used Firebase ML Vision to detect faces .
 
 1)Save a face for further recognition.
-2)Define lat long and radius for geofencing..
+
+2)Define lat long and radius for geofencing.
+
 3)Use Check-In/Check-Out icon to check app.
 
 
